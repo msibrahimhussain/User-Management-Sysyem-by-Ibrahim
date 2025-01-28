@@ -37,20 +37,6 @@ Add a User: Click the "Add User" button to open the form, fill in the details, a
 View Users: The user list will show ID, Name, Email, and Department.
 Delete a User: Click the "Delete" button next to a user to remove them from the list.
 
-File Structure
-user-management-app/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── UserForm.js
-│   │   ├── UserList.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-└── README.md
-
 API
 The app interacts with the mock API at https://jsonplaceholder.typicode.com/users for the following actions:
 
