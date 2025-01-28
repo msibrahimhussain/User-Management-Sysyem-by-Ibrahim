@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/msibrahimhussain/User-Management-System-by-Ibrahim.git
+git clone https://github.com/msibrahimhussain/User-Management-Sysyem-by-Ibrahim.git
 Navigate to the project folder:
 
 bash
